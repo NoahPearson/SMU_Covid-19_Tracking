@@ -1,6 +1,8 @@
 # SMU Covid-19 Tracking
 In the interest of visualization and analysis, I'm presenting the data reported by SMU: https://blog.smu.edu/coronavirus-covid-19/cases/
 
+I start recording on move-in day, Aug. 17. Classes began a week later on Aug. 24.
+
 __Last Updated: 9/1/2020__
 
 The data presented are the reported cases on the day they're reported to SMU. We don't know when the test was taken by the student or when they reported to SMU. So, the significant uptick after classes began _actually_ was happening probably a few days earlier. SMU also tends to under-report the most recent day (meaning they report cases they received that day later). For that reason, I didn't compute the moving average for the last day.
@@ -24,4 +26,4 @@ New cases reported each day:
 To add:
 * models/projections
 * "Go home" time scale estimate
-* "turn over point" analysis (when spread begins to decrease and level out)
+* "turn-over point" analysis (when spread begins to decrease and level out)
