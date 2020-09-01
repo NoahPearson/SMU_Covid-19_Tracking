@@ -13,10 +13,15 @@ New cases reported each day:
 
 ![new](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:1:2020_new:day.png)
 
-3-Day moving average:
+3-Day moving average (total):
 
 ![3day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:1:2020_movavg.png)
 
-7-Day moving average:
+7-Day moving average (total):
 
 ![7day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:1:2020_mov7avg.png)
+
+To add:
+* models/projections
+* "Go home" time scale estimate
+* "turn over point" analysis (when spread begins to decrease and level out)
