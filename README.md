@@ -17,16 +17,15 @@ __New cases reported each day:__
 
 ![new](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:1:2020_new:day.png)
 
-__3-Day moving average (total):__
+__3-Day moving average:__
 
-![3day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:1:2020_movavg.png)
+![3day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:1:2020_mov3avg.png)
 
-__7-Day moving average (total):__
+__7-Day moving average:__
 
 ![7day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:1:2020_mov7avg.png)
 
 To add:
-* include moving averages for on/off campus
 * growth factor
 * models/projections
 * "Go home" time scale estimate
