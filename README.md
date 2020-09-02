@@ -3,11 +3,13 @@ In the interest of visualization and analysis, I'm presenting the data reported 
 
 I start recording on move-in day, Aug. 17. Classes began a week later on Aug. 24.
 
-__Last Updated: 9/1/2020__
+### Data Last Updated: 9/1/2020
 
 The data presented are the reported cases on the day they're reported to SMU. We don't know when the test was taken by the student or when they reported to SMU. So, the significant uptick after classes began _actually_ was happening a few days earlier. SMU also tends to under-report the most recent day (meaning they report some of the cases they received that day, later). For that reason, I didn't compute the moving averages for the last day.
 
 Hopefully SMU will also make positivity/number of tests, isolation capacity, among other data publicly accessible.
+
+## Raw Data:
 
 __Total cumulative cases ("active" + "inactive"):__
 
@@ -28,7 +30,7 @@ __7-Day moving average:__
 Comments:
 As expected, off-campus and on-campus behavior is similar. The moving averages "smooth out" the extreme day-to-day variation in the new reported incidents. Both show that we are seeing a steady (if not growing) increase in the number of new cases reported every day. 
 
-The sub-population that I'm most interested in is the on-campus students. They are related to our "limiting" factor - once we run out of isolation space at SMU, then we (according to the attached Fall Action Plan) will all be sent home to resume classes entirely online. It's difficult to tell how many active cases would exhaust the isolation pods, since at certain occupancy thresholds, students living within certain distances will be sent home to isolate. The stated SMU isolation capacity is 127. 
+The sub-population that I'm most interested in is the on-campus students. They are related to our "limiting" factor - once we run out of isolation space at SMU, then we (according to the attached Fall Action Plan) will all be sent home to resume classes entirely online. It's difficult to tell how many active cases would exhaust the isolation pods, since at certain occupancy thresholds, students living within certain distances will be sent home to isolate. Additionally, it's entirely possible that more local students will isolate at their homes without SMU making them. The stated SMU isolation capacity is 127. 
 
 To add:
 * active cases tracking
@@ -36,3 +38,7 @@ To add:
 * models/projections
 * "Go home" time scale estimate
 * "turn-over point" analysis (when spread begins to decrease and level out)
+
+Other Student Trackers:
+* [Jonathan Lindbloom](https://github.com/Jonathan-Lindbloom/SMU-COVID-19)
+* [Jared Burleson](https://github.com/jared-burleson/SMU_COVID_Case_Tracker)
