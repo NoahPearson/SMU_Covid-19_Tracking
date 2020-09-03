@@ -13,24 +13,34 @@ Hopefully SMU will also make positivity/number of tests, isolation capacity, amo
 
 __Total cumulative cases ("active" + "inactive"):__
 
-![9/1/2020](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:1:2020.png)
+![9/1/2020](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:2_tot.png)
 
 __New cases reported each day:__
 
-![new](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:1:2020_new:day.png)
+![new](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:2_new.png)
 
 __3-Day moving average:__
 
-![3day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:1:2020_mov3avg.png)
+![3day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:2_mov3avg.png)
 
 __7-Day moving average:__
 
-![7day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:1:2020_mov7avg.png)
+![7day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:2_mov7avg.png)
 
 Comments:
 As expected, off-campus and on-campus behavior is similar. The moving averages "smooth out" the extreme day-to-day variation in the new reported incidents. Both show that we are seeing a steady (if not growing) increase in the number of new cases reported every day. 
 
 The sub-population that I'm most interested in is the on-campus students. They are related to our "limiting" factor - once we run out of isolation space at SMU, then we (according to the attached Fall Action Plan) will all be sent home to resume classes entirely online. It's difficult to tell how many active cases would exhaust the isolation pods, since at certain occupancy thresholds, students living within certain distances will be sent home to isolate. Additionally, it's entirely possible that more local students will isolate at their homes without SMU making them. The stated SMU isolation capacity is 127. 
+
+## Models/Projections:
+
+Naive exponential fit model for on-campus cumulative cases using Mathematica's nonlinear model function:
+
+![model](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:2_mod1.png)
+
+![model again](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:2_mod1.2.png)
+
+**It's really difficult to model the spread (especially when I don't have that much knowledge about epidemiology). This model projects 500 on-campus (cumulative) cases in just over 10 days. This should NOT be taken as accurate. I made this model just to show how close/far the reported spread behavior is to an exponential (RSquared = 0.984).**
 
 To add:
 * active cases tracking
