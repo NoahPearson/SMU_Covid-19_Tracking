@@ -3,7 +3,7 @@ In the interest of visualization and analysis, I'm presenting the data reported 
 
 I start recording on move-in day, Aug. 17. Classes began a week later on Aug. 24.
 
-### Data Last Updated: 9/1/2020
+### Data Last Updated: 9/2/2020 at 8:17 PM
 
 The data presented are the reported cases on the day they're reported to SMU. We don't know when the test was taken by the student or when they reported to SMU. So, the significant uptick after classes began _actually_ was happening a few days earlier. SMU also tends to under-report the most recent day (meaning they report some of the cases they received that day, later). For that reason, I didn't compute the moving averages for the last day.
 
