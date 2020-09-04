@@ -13,19 +13,19 @@ Hopefully SMU will also make positivity/number of tests, isolation capacity, amo
 
 __Total cumulative cases ("active" + "inactive"):__
 
-![9/1/2020]()
+![tot](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:4_tot.png)
 
 __New cases reported each day:__
 
-![new]()
+![new](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:4_new.png)
 
 __3-Day moving average:__
 
-![3day]()
+![3day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:4_mov3avg.png)
 
 __7-Day moving average:__
 
-![7day]()
+![7day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:4_mov7avg.png)
 
 Comments:
 As expected, off-campus and on-campus behavior is similar. The moving averages "smooth out" the extreme day-to-day variation in the new reported incidents. Both show that we are seeing a steady (if not growing) increase in the number of new cases reported every day. 
@@ -38,9 +38,9 @@ Edit: as of 9/4 (just 2 weeks of classes!), we are at **44% on-campus isolation 
 
 Naive exponential fit model for on-campus cumulative cases using Mathematica's nonlinear model function:
 
-![model]()
+![model](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:4_mod1.png)
 
-![model again]()
+![model again](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/9:4_mod1.2.png)
 
 **It's really difficult to model the spread (especially when I don't have that much knowledge about epidemiology). This model projects 500 on-campus (cumulative) cases in just over 8 days (on-track from previous models). This should NOT be taken as accurate. I made this model just to show how close/far the reported spread behavior is to an exponential (RSquared = 0.99).**
 
