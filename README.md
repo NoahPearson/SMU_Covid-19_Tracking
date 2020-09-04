@@ -5,7 +5,7 @@ I start recording on move-in day, Aug. 17. Classes began a week later on Aug. 24
 
 ### Data Last Updated: 9/4/2020 at 5:40 PM
 
-The data presented are the reported cases on the day they're reported to SMU. We don't know when the test was taken by the student or when they reported to SMU. So, the significant uptick after classes began _actually_ was happening a few days earlier. SMU also tends to under-report the most recent day (meaning they report some of the cases they received that day, later). For that reason, I didn't compute the moving averages for the last day.
+The data presented are the reported cases on the day they're reported to SMU. We don't know when the test was taken by the student or when they reported to SMU. So, the significant uptick after classes began _actually_ was happening a few days earlier. **SMU also tends to under-report the most recent day (meaning they report some of the cases they received that day, later).** For that reason, I didn't compute the moving averages for the last day.
 
 Hopefully SMU will also make positivity/number of tests, isolation capacity, among other data publicly accessible. Edit: on 9/3, the linked site also includes a "dashboard" with active cases and isolation capacity. There are currently **80** people quarantining on-campus (asked to quarantine in their rooms because they were contact-traced) and we are at **44%** isolation space capacity - meaning there are **56** people isolating (because they have the virus) on-campus. The remaining active on-campus cases must be isolating at home.
 
