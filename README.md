@@ -52,5 +52,5 @@ To add:
 * "turn-over point" analysis (when spread begins to decrease and level out)
 
 Other Student Trackers:
-* [Jonathan Lindbloom](https://github.com/Jonathan-Lindbloom/SMU-COVID-19)
-* [Jared Burleson](https://github.com/jared-burleson/SMU_COVID_Case_Tracker)
+* Jonathan Lindbloom: [GitHub](https://github.com/Jonathan-Lindbloom/SMU-COVID-19), [Tableau (Interactive)](https://public.tableau.com/profile/jonathan.lindbloom#!/vizhome/SMUCOVID-19InteractiveDashboard/Dashboard)
+* Jared Burleson: [GitHub](https://github.com/jared-burleson/SMU_COVID_Case_Tracker)
