@@ -32,8 +32,6 @@ As expected, off-campus and on-campus behavior is similar. The moving averages "
 
 The sub-population that I'm most interested in is the on-campus students. They are related to our "limiting" factor - once we run out of isolation space at SMU, then we (according to the attached Fall Action Plan) will all be sent home to resume classes entirely online. It's difficult to tell how many active cases would exhaust the isolation pods, since at certain occupancy thresholds, students living within certain distances will be sent home to isolate. Additionally, it's entirely possible that more local students will isolate at their homes without SMU making them. The stated SMU isolation capacity is 127. "The University will provide 15 campus wellness pods, 44 bed spaces within Martin Hall, 16 bed spaces within Dyer House, and 52 beds within Perkins Hall as isolation quarters for students living on campus should they contract COVID-19."(Fall 2020 Operations Plan)
 
-Edit: as of 9/4 (just 2 weeks of classes!), we are at **48% on-campus isolation capacity.**
-
 ## Models/Projections:
 
 Naive exponential fit model for on-campus cumulative cases using Mathematica's nonlinear model function:
