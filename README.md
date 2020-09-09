@@ -13,19 +13,19 @@ Hopefully SMU will also make positivity/number of tests, isolation capacity, amo
 
 __Total cumulative cases ("active" + "inactive"):__
 
-![tot](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:8_tot.jpg)
+![tot](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:8_tot.jpeg)
 
 __New cases reported each day:__
 
-![new](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:8_new.jpg)
+![new](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:8_new.jpeg)
 
 __3-Day moving average:__
 
-![3day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:8_mov3avg.jpg)
+![3day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:8_mov3avg.jpeg)
 
 __7-Day moving average:__
 
-![7day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:8_mov7avg.jpg)
+![7day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:8_mov7avg.jpeg)
 
 Comments:
 As expected, off-campus and on-campus behavior is similar. The moving averages "smooth out" the extreme day-to-day variation in the new reported incidents. Both show that we are seeing a steady (if not growing) increase in the number of new cases reported every day. 
@@ -36,9 +36,9 @@ The sub-population that I'm most interested in is the on-campus students. They a
 
 Naive exponential fit model for on-campus cumulative cases using Mathematica's nonlinear model function:
 
-![model](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:8_mod1.jpg)
+![model](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:8_mod1.jpeg)
 
-![model again](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:8_mod1.2.jpg)
+![model again](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:8_mod1.2.jpeg)
 
 **It's really difficult to model the spread (especially when I don't have that much knowledge about epidemiology). This model projects 500 on-campus (cumulative) cases in just over 8 days. This should NOT be taken as accurate. I made this model just to show how close/far the reported spread behavior is to an exponential (RSquared = 0.982).**
 
