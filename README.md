@@ -28,7 +28,7 @@ __7-Day moving average:__
 ![7day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:9_mov7avg.png)
 
 Comments:
-As expected, off-campus and on-campus behavior is similar. The moving averages "smooth out" the extreme day-to-day variation in the new reported incidents. Both show that we are seeing a steady (if not growing) increase in the number of new cases reported every day. 
+As expected, off-campus and on-campus behavior is similar. The moving averages "smooth out" the extreme day-to-day variation in the new reported incidents. 
 
 The sub-population that I'm most interested in is the on-campus students. They are related to our "limiting" factor - once we run out of isolation space at SMU, then we (according to the attached Fall Action Plan) will all be sent home to resume classes entirely online. It's difficult to tell how many active cases would exhaust the isolation pods, since at certain occupancy thresholds, students living within certain distances will be sent home to isolate. Additionally, it's entirely possible that more local students will isolate at their homes without SMU making them. The stated SMU isolation capacity is 127. "The University will provide 15 campus wellness pods, 44 bed spaces within Martin Hall, 16 bed spaces within Dyer House, and 52 beds within Perkins Hall as isolation quarters for students living on campus should they contract COVID-19."(Fall 2020 Operations Plan)
 
