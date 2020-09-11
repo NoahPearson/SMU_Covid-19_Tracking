@@ -27,6 +27,10 @@ __7-Day moving average:__
 
 ![7day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:11_mov7avg.png)
 
+__10-Day moving average:__
+
+![10day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:11_mov10avg.png)
+
 Comments:
 As expected, off-campus and on-campus behavior is similar. The moving averages "smooth out" the extreme day-to-day variation in the new reported incidents. 
 
