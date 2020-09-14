@@ -23,6 +23,12 @@ __3-Day moving average:__
 
 ![3day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:13_mov3avg.png)
 
+With vertical lines marking the start of each week (Monday):
+
+![3day2](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:13_mov3avg.png)
+
+With this average, one can see this periodic pattern - a bump in reported cases a few days after the weekend... Because of the delay associated with testing and reporting, these infections likely happened during the weekend (fiestas).
+
 __7-Day moving average:__
 
 ![7day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:13_mov7avg.png)
