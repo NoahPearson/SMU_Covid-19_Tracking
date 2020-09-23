@@ -3,37 +3,37 @@ In the interest of visualization and analysis, I'm presenting the data reported 
 
 I start recording on move-in day, Aug. 17. Classes began a week later on Aug. 24.
 
-### Data Last Updated: 9/22/2020 at 9:05 PM
+### Data Last Updated: 9/23/2020 at 6:45 PM
 
 The data presented are the reported cases on the day they're reported to SMU. We don't know when the test was taken by the student or when they reported to SMU. So, the significant uptick after classes began _actually_ was happening a few days earlier. **SMU also tends to under-report the most recent day (meaning they report some of the cases they received that day, later).** For that reason, I didn't compute the moving averages for the last day.
 
-Hopefully, SMU will also make positivity/number of tests, isolation capacity, among other data publicly accessible. Edit: on 9/3, the linked site also includes a "dashboard" with active cases and isolation capacity. There are currently **49**(-5) people quarantining on-campus (asked to quarantine in their rooms because they were contact-traced) and we are at **24%** isolation space capacity; there are **36**(-1) people isolating (because they have the virus) on-campus. The remaining active on-campus cases must be isolating at home.
+Hopefully, SMU will also make positivity/number of tests, isolation capacity, among other data publicly accessible. Edit: on 9/3, the linked site also includes a "dashboard" with active cases and isolation capacity. There are currently **68**(+19) people quarantining on-campus (asked to quarantine in their rooms because they were contact-traced) and we are at **23%** isolation space capacity; there are **34**(-2) people isolating (because they have the virus) on-campus. The remaining active on-campus cases must be isolating at home.
 
 ## Raw Data:
 
 __Total cumulative cases ("active" + "inactive"):__
 
-![tot](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:22_tot.png)
+![tot](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:23_tot.png)
 
 __New cases reported each day:__
 
 With vertical lines marking the start of each week (Monday):
 
-![new](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:22_new.png)
+![new](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:23_new.png)
 
 __3-Day moving average:__
 
-![3day2](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:22_mov3avg.png)
+![3day2](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:23_mov3avg.png)
 
 With this average, one can see this periodic pattern - a bump in reported cases in the middle of the week.
 
 __7-Day moving average:__
 
-![7day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:22_mov7avg.png)
+![7day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:23_mov7avg.png)
 
 __10-Day moving average:__
 
-![10day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:22_mov10avg.png)
+![10day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:23_mov10avg.png)
 
 Comments:
 As expected, off-campus and on-campus behavior is similar. The moving averages "smooth out" the extreme day-to-day variation in the new reported incidents. 
@@ -42,7 +42,7 @@ The sub-population that I'm most interested in is the on-campus students. They a
 
 ## Isolation:
 
-![iso](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:22_iso.png)
+![iso](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:23_iso.png)
 
 *Note: I forgot to record isolation capactity on 9/19, so I kept it at the previous known number.*
 
