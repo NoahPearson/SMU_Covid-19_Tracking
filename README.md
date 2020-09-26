@@ -21,6 +21,10 @@ With vertical lines marking the start of each week (Monday):
 
 ![new](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:25_new.png)
 
+__Weekly Average of New Cases Reported Each Day:__
+
+![weekly](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:25_weekly.png)
+
 __3-Day moving average:__
 
 ![3day2](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:25_mov3avg.png)
