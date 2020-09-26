@@ -21,7 +21,7 @@ With vertical lines marking the start of each week (Monday):
 
 ![new](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:25_new.png)
 
-__Weekly Average of New Cases Reported Each Day:__
+__Weekly Average of Total New Cases Reported Each Day:__
 
 ![weekly](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:25_weekly.png)
 
