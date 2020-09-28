@@ -3,52 +3,54 @@ In the interest of visualization and analysis, I'm presenting the data reported 
 
 I start recording on move-in day, Aug. 17. Classes began a week later on Aug. 24.
 
-### Data Last Updated: 9/27/2020 at 11:00 AM
+### Data Last Updated: 9/27/2020 at 9:06 PM
 
 The data presented are the reported cases on the day they're reported to SMU. We don't know when the test was taken by the student or when they reported to SMU. So, the significant uptick after classes began _actually_ was happening a few days earlier. **SMU also tends to under-report the most recent day (meaning they report some of the cases they received that day, later).** For that reason, I didn't compute the moving averages for the last day.
 
-Hopefully, SMU will also make positivity/number of tests, isolation capacity, among other data publicly accessible. Edit: on 9/3, the linked site also includes a "dashboard" with active cases and isolation capacity. There are currently **50**(-7) people quarantining on-campus (asked to quarantine in their rooms because they were contact-traced) and we are at **20%** isolation space capacity; there are **29**(-4) people isolating (because they have the virus) on-campus. The remaining active on-campus cases must be isolating at home.
+Hopefully, SMU will also make positivity/number of tests, isolation capacity, among other data publicly accessible. Edit: on 9/3, the linked site also includes a "dashboard" with active cases and isolation capacity. There are currently **48**(-2) people quarantining on-campus (asked to quarantine in their rooms because they were contact-traced) and we are at **16%** isolation space capacity; there are **24**(-5) people isolating (because they have the virus) on-campus. The remaining active on-campus cases must be isolating at home.
+
+__9/27: No new cases reported__
 
 ## Raw Data:
 
 __Total cumulative cases ("active" + "inactive"):__
 
-![tot](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:26_tot.png)
+![tot](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:27_tot.png)
 
 __New cases reported each day:__
 
 With vertical lines marking the start of each week (Monday):
 
-![new](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:26_new.png)
+![new](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:27_new.png)
 
 __Weekly Average of Total New Cases Reported Each Day:__
 
-![weekly](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:26_weekly.png)
+![weekly](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:27_weekly.png)
 
 __3-Day moving average:__
 
-![3day2](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:26_mov3avg.png)
+![3day2](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:27_mov3avg.png)
 
 With this average, one can see this periodic pattern - a bump in reported cases in the middle of the week.
 
 __7-Day moving average:__
 
-![7day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:26_mov7avg.png)
+![7day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:27_mov7avg.png)
 
 __10-Day moving average:__
 
-![10day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:26_mov10avg.png)
+![10day](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:27_mov10avg.png)
 
 Comments:
 As expected, off-campus and on-campus behavior is similar. The moving averages "smooth out" the extreme day-to-day variation in the new reported incidents. 
 
 The sub-population that I'm most interested in is the on-campus students. They are related to our "limiting" factor - once we run out of isolation space at SMU, then we (according to the attached Fall Action Plan) will all be sent home to resume classes entirely online. It's difficult to tell how many active cases would exhaust the isolation pods, since at certain occupancy thresholds, students living within certain distances will be sent home to isolate. Additionally, it's entirely possible that more local students will isolate at their homes without SMU making them. The stated SMU isolation capacity is 127. "The University will provide 15 campus wellness pods, 44 bed spaces within Martin Hall, 16 bed spaces within Dyer House, and 52 beds within Perkins Hall as isolation quarters for students living on campus should they contract COVID-19."(Fall 2020 Operations Plan)
 
-I'm skeptical of the sudden decrease in reported cases. I think knowing more about the testing could shed some light.
+*I'm skeptical of the sudden decrease in reported cases. I think knowing more about the testing could shed some light.*
 
 ## Isolation:
 
-![iso](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:26_iso.png)
+![iso](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:27_iso.png)
 
 *Note: I forgot to record isolation capactity on 9/19, so I kept it at the previous known number.*
 
