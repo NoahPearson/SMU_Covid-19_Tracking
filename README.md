@@ -50,7 +50,7 @@ The sub-population that I'm most interested in is the on-campus students. They a
 
 ## Isolation:
 
-![iso](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/9:27_iso.png)
+![iso](https://github.com/NoahPearson/SMU_Covid-19_Tracking/blob/master/Plots/10:1_iso.png)
 
 *Note: I forgot to record isolation capactity on 9/19, so I kept it at the previous known number.*
 
